@@ -2,18 +2,18 @@
 
 # name, assignment operator, value
 #
-studentsName = "Jessica Stewart"
+instructorsName = "Joe frasier"
 theNumberOne = 1
 
 student = "Dustin"
 student1 = False
 emptyString = ""
 
-# What type of values can you have?
+#  What type of values can you have?
 
 # Boolean
 # Something is either TRUE or FALSE
-# Something is either turthy or falsey
+# Something is either truthy or falsey
 isJoeTall = True
 isJoeGoodAtSports = False
 
@@ -30,13 +30,14 @@ emptyString = ""
 # whole number
 states = 50
 capitals = 50
-numberOfRibsIeat = 4
+numberOfRibsIEat = 4
 
-#Float
-interestRate = 5.5
+# Float
+interestRate = 5.5555555554
 
-myName = "Jessica Stewart"
-myAge = "31"
-myFavoriteFood = "FrenchFries"
-doYouLikeToCode = "True"
-homeLoanIntRate = 3.4
+
+name = "Jessica"
+age = 31
+favFood = "Fries"
+doYouLikeToCode = True
+homeLoanInterestRate = 3.2
